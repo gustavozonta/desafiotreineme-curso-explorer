@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio Treine </h1>
+<h1 align="center"> Desafio Treine.me </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -40,4 +40,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
-<p align="center">Feito com  ♥  by Alex Lima</p>
+<p align="center">Feito com  ♥  by Gustavo Zonta </p>
